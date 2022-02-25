@@ -37,6 +37,7 @@
         }
         .popup-modal-gal .pop-inner{
             height: 800px;
+            border: 1px solid #333;
         }
         .popup-modal span{
             padding: 0 0 20px 10px;
